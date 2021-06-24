@@ -132,3 +132,8 @@ body {
 .expense-item {
   height: 2rem;
 }
+.para{
+  font-size: 19px;
+  color: #3beb43;
+  font-family:  Garamond, serif;
+}
